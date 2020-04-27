@@ -1,0 +1,25 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sverpoest/Quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sverpoest/Quiz/issues"
+  },
+  "homepage": "https://github.com/sverpoest/Quiz#readme",
+  "dependencies": {
+    "aws-sdk": "^2.663.0",
+    "claudia-api-builder": "^4.1.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}

@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "quiz-executor",
+    "name": "quiz",
+    "region": "us-east-2"
+  },
+  "api": {
+    "id": "yyuaiggjv1",
+    "module": "api"
+  }
+}
